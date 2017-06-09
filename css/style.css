@@ -4,7 +4,7 @@ army green: 41521F;
 */
 body{
 	background-color: pink;
-	font-family: 'Lato', sans-serif;
+	
 }
 /********************NAV BAR********************/
 .navbar{
@@ -32,7 +32,7 @@ body{
 	color: #fff;
 }
 #welcomeId button{
-	background-color: #46723f; /*verde boton*/
+	background-color: #41521F; /*verde más oscuro*/
 	padding: 10px;
 	border: none;
 	color: #fff;
@@ -47,12 +47,12 @@ body{
 	padding-top: 10vh;
 }
 .section-two h1, .section-two h2{
-	color: #41521F;
+	color: #A89F68; /*cafe claro*/
 	font-weight: 900;
 }
 /**************************SECTION THREE***********/
 .section-three{
-	background-color: #A89F68;
+	background-color: #A89F68; /*verde oscuro*/
 
 }
 .section-three .row{
@@ -98,11 +98,11 @@ body{
 /****************************section seix***********************/
 .section-six{
 	text-align: center;
-	background-color: #A89F68;
+	background-color: #A89F68; /*cafe claro*/
 	padding: 5vh;
 }
 .section-six h2{
-	color: #46723f; /*verde boton*/
+	color: #41521F; /*verde más oscuro*/
 }
 .section-six p{
 	font-size: 16px;
@@ -110,19 +110,26 @@ body{
 p.price{
 	font-size: 60px;
 }
+p.titulo{
+	padding-top: 5vh;
+}
 .price{
 	display: inline-block;
 	color: #fff;
 }
 sup.price {
 	    top: -2.5em;
+	    font-size: 14px;
+}
+sub.price{
+	font-size: 14px;
 }
 .line{
 	border-bottom: 1px solid #fff;
 	width: 90%;
 }
 .section-six button{
-	background-color: #46723f; /*verde boton*/
+	background-color: #41521F; /*verde más oscuro*/
 	color: #fff;
 	border: none;
 	padding: 10px;
@@ -130,7 +137,7 @@ sup.price {
 }
 /**************************FOOTER**********************/
 footer{
-	background-color: #46723f; /*verde boton*/
+	background-color: #41521F; /*verde más oscuro*/
 	padding-top: 5vh;
 }
 footer p{
