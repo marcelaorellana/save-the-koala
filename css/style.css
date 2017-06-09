@@ -109,6 +109,7 @@ body{
 }
 p.price{
 	font-size: 60px;
+	padding-left: 3px;
 }
 p.titulo{
 	padding-top: 5vh;
@@ -120,6 +121,7 @@ p.titulo{
 sup.price {
 	    top: -2.5em;
 	    font-size: 14px;
+	    padding: 3px;
 }
 sub.price{
 	font-size: 14px;
